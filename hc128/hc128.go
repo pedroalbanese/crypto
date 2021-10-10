@@ -4,7 +4,7 @@
 // Package hc128 implements the stream cipher
 // HC-128 from the eSTREAM portfolio (software)
 // designed by Hongjun Wu.
-package hc128 // import "github.com/enceve/crypto/hc128"
+package hc128 // import "github.com/pedroalbanese/crypto/hc128"
 
 import "crypto/cipher"
 
