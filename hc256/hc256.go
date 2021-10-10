@@ -3,7 +3,7 @@
 
 // Package hc256 implements the stream cipher
 // HC-256  designed by Hongjun Wu.
-package hc256 // import "github.com/enceve/crypto/hc256"
+package hc256 // import "github.com/pedroalbanese/crypto/hc256"
 
 import "crypto/cipher"
 
