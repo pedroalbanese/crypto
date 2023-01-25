@@ -3,7 +3,7 @@
 
 package hc128
 
-import "github.com/enceve/crypto"
+import "github.com/pedroalbanese/crypto"
 
 func (c *streamCipher) XORKeyStream(dst, src []byte) {
 	length := len(src)
