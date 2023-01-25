@@ -11,7 +11,7 @@ package serpent
 import (
 	"crypto/cipher"
 
-	"github.com/enceve/crypto"
+	"github.com/pedroalbanese/crypto"
 )
 
 // The Serpent block size in bytes.
