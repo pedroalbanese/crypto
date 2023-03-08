@@ -35,7 +35,7 @@ which can be easily integrated into Go applications.
 
 ### Installation
 
-Install in your GOPATH: `go get -u github.com/enceve/crypto`  
+Install in your GOPATH: `go get -u github.com/pedroalbanese/crypto`  
 Install Dependencies: `go get -u golang.org/x/crypto`  
 
 ### Contribute
